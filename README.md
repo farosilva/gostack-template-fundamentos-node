@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio 05: Primeiro projeto Node.js - GoFinance
+  Desafio 05: Primeiro projeto Node.js
 </h3>
 
 ## :rocket: Sobre o desafio
